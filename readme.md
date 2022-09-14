@@ -1,5 +1,11 @@
 # Super Rss Reader
 
+![screencapture-myrssfeed-info-views-home-php-2022-09-14-16_04_04](https://user-images.githubusercontent.com/91744288/190176234-441da199-ae46-477e-84c8-7b64dd52b955.png)
+
+
+![screencapture-myrssfeed-info-views-parameters-php-2022-09-14-15_59_20](https://user-images.githubusercontent.com/91744288/190176275-352420aa-404a-43c0-a20c-41d9bac85453.png)
+
+
 Vous allez créer un site permettant d’afficher le contenu de plusieurs flux RSS sur une même grande thématique :
 
 - Sport
